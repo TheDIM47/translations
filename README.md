@@ -1,7 +1,7 @@
 ### Переводы
 
 1. [Кофе с крабами](https://github.com/TheDIM47/rust-java-interop)
-2. [Исследуем монады в Rust через тестирование на основе свойств](https://github.com/TheDIM47/translations/rust/monads-through-pbt/monads-through-pbt.md)
+2. [Исследуем монады в Rust через тестирование на основе свойств](https://github.com/TheDIM47/translations/blob/main/rust/monads-through-pbt/monads-through-pbt.md)
 
 ### Оригиналы
 
